@@ -3,5 +3,5 @@ import react from "@vitejs/plugin-react";
 
 export default defineConfig({
   plugins: [react()],
-  base: "https://github.com/Nitin399-maker/realdt/",
+  base: "https://nitin399-maker.github.io/realdt//",
 });
